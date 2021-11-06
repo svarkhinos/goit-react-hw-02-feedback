@@ -1,0 +1,16 @@
+h2 {
+  margin-top: 0;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+
+  background-color: lightblue;
+  border: 2px solid blue;
+  border-radius: 5px;
+}
